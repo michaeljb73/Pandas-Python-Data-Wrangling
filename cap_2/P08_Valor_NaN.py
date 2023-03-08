@@ -12,3 +12,5 @@ print(soma)
 print('-----------------------------------------')
 print('isnull(soma): ')
 print(pd.isnull(soma))
+
+# Continuar na pág. 42 - Índices datetime.
